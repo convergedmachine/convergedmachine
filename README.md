@@ -9,7 +9,7 @@ This repository focuses on advanced machine learning applications in biomedical 
 ## 🚀 Features
 
 - **ML Models**: State-of-the-art implementations for medical image analysis
-- **Datasets & Data Processing**: Tools for medical dataset preparation and preprocessing[2]
+- **Datasets & Data Processing**: Tools for medical dataset preparation and preprocessing
 - **Visualization**: Interactive medical image viewing capabilities
 
 ## 📫 Contact & Connect
