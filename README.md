@@ -8,9 +8,8 @@ This repository focuses on advanced machine learning applications in biomedical 
 
 ## 🚀 Features
 
-- **DICOM Processing**: Efficient handling and visualization of medical imaging files[1]
 - **ML Models**: State-of-the-art implementations for medical image analysis
-- **Data Processing**: Tools for medical dataset preparation and preprocessing[2]
+- **Datasets & Data Processing**: Tools for medical dataset preparation and preprocessing[2]
 - **Visualization**: Interactive medical image viewing capabilities
 
 ## 📫 Contact & Connect
