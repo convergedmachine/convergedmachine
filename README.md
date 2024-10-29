@@ -1,16 +1,21 @@
-## Hi there 👋
+# 🔬 Converging Machine: Biomedical Imaging
+- I'm **Dr. Mehmet Can Yavuz** and welcome to my biomedical imaging research space! 🎯
+- 🔭 I’m currently working at Yang-Lab @ UCSF.
 
-<!--
-**converging-machine/converging-machine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ About This Repository
 
-Here are some ideas to get you started:
+This repository focuses on advanced machine learning applications in biomedical imaging, offering tools and implementations for medical image analysis, processing, and visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Features
+
+- **DICOM Processing**: Efficient handling and visualization of medical imaging files[1]
+- **ML Models**: State-of-the-art implementations for medical image analysis
+- **Data Processing**: Tools for medical dataset preparation and preprocessing[2]
+- **Visualization**: Interactive medical image viewing capabilities
+
+## 📫 Contact & Connect
+
+- 🎓 **Academic Profile**: [[Google Scholar Page]](https://scholar.google.com/citations?user=LbWQgRsAAAAJ)
+- 🔗 **LinkedIn**: [Mehmet Can Yavuz](https://www.linkedin.com/in/mcanyavuz/)
+- 💬 Ask me about anything.
+  
