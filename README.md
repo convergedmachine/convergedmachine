@@ -1,5 +1,5 @@
 ## 🔬 Converging Machine: Biomedical Imaging
-- I'm **Dr. Mehmet Can Yavuz** and welcome to my biomedical imaging research space! 🎯
+- I'm **Mehmet Can Yavuz, PhD** and welcome to my biomedical imaging research space! 🎯
 - 🔭 I’m currently working at Yang-Lab @ UCSF.
 
 ## 🛠️ About This Repository
