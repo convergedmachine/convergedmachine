@@ -16,5 +16,6 @@ This repository focuses on advanced machine learning applications in biomedical 
 
 - 🎓 **Academic Profile**: [[Google Scholar Page]](https://scholar.google.com/citations?user=LbWQgRsAAAAJ)
 - 🔗 **LinkedIn**: [Mehmet Can Yavuz](https://www.linkedin.com/in/mcanyavuz/)
+- 🎯 **Huggingface**: [ConvergedMachine](https://huggingface.co/convergedmachine)
 - 💬 Ask me about anything.
   
