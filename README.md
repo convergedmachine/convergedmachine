@@ -1,6 +1,6 @@
-## 🔬 Converged Machine: Biomedical Imaging Research Zone
-- I'm **Mehmet Can Yavuz, PhD** and welcome to my biomedical imaging research space! 🎯
-- 🔭 I’m currently working at Yang-Lab @ UCSF.
+## 🔬 Converged Machine: Machine Learning Research Zone
+- I'm **Mehmet Can Yavuz, PhD** and welcome to my machine learning research space! 🎯
+- 🔭 I’m currently working at UCSF.
 
 ## 🛠️ About This Repository
 
