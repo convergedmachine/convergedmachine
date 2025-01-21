@@ -4,7 +4,7 @@
 
 ## 🛠️ About This Repository
 
-This repository focuses on advanced machine learning applications in biomedical imaging, offering tools and implementations for medical image analysis, processing, and visualization.
+This repository focuses on advanced machine learning applications in different modalities offering tools and implementations for analysis, processing, and visualization.
 
 ## 🚀 Features
 
