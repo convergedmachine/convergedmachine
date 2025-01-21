@@ -1,6 +1,6 @@
 ## 🔬 Converged Machine: Machine Learning Research Zone
 - I'm **Mehmet Can Yavuz, PhD** and welcome to my machine learning research space! 🎯
-- 🔭 I’m currently working at UCSF.
+- 🔭 I’m currently working at Işık University, İstanbul.
 
 ## 🛠️ About This Repository
 
