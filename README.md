@@ -2,6 +2,8 @@
 - I'm **Mehmet Can Yavuz, PhD** and welcome to my machine learning research space! 🎯
 - 🔭 I’ll soon start working as **Assistant Professor** at Işık University, Şile - İstanbul.
 
+![sile](sile.png)
+
 ## 🛠️ About This Repository
 
 This repository focuses on advanced machine learning applications in different modalities offering tools and implementations for analysis, processing, and visualization.
