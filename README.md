@@ -16,9 +16,9 @@ This repository focuses on advanced machine learning applications in different m
 
 ## 📫 Contact & Connect
 
-- 🎓 **Academic Profile**: [[Google Scholar Page]](https://scholar.google.com/citations?user=LbWQgRsAAAAJ)
-- 🔗 **LinkedIn**: [Mehmet Can Yavuz](https://www.linkedin.com/in/mcanyavuz/)
-- 🎯 **Huggingface**: [ConvergedMachine](https://huggingface.co/convergedmachine)
 - 🔭 **Medium**: [ConvergedMachine](https://medium.com/@convergedmachine/)
+- 🎯 **Huggingface**: [ConvergedMachine](https://huggingface.co/convergedmachine)
+- 🔗 **LinkedIn**: [Mehmet Can Yavuz](https://www.linkedin.com/in/mcanyavuz/) 
+- 🎓 **Academic Profile**: [[Google Scholar Page]](https://scholar.google.com/citations?user=LbWQgRsAAAAJ)
 - 💬 Ask me about anything.
   
